@@ -1,6 +1,6 @@
 # Metaheuristiques
 
-### implementing different the algorithms to solve the the n-puzle:
+### Implementing different the algorithms to solve the the n-puzle:
 
 #### A*, BFS, FS, methaheuristiques: genetic algorithms and PSO
 
