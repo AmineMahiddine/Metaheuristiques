@@ -2,7 +2,7 @@
 
 ### Implementing different the algorithms to solve the the n-puzle:
 
-#### A*, BFS, FS, methaheuristiques: genetic algorithms and PSO
+#### A*, BFS, DFS, methaheuristiques: genetic algorithms and PSO
 
 ## Part 01
 <img alt="image1" src="/images/1.PNG" data-canonical-src="/images/1.PNG" width="500"  />
