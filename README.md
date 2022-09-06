@@ -2,8 +2,16 @@
 
 part One and part 2 on solving the puzle game with A*, BFS, FS, methaheuristiques: genetic algorithms and PSO
 
-![image1](https://github.com/AmineMahiddine/Metaheuristiques/tree/main/images/1.PNG)
-![image2](https://github.com/AmineMahiddine/Metaheuristiques/tree/main/images/2.PNG)
-![image3](https://github.com/AmineMahiddine/Metaheuristiques/tree/main/images/3.PNG)
-![image5](https://github.com/AmineMahiddine/Metaheuristiques/tree/main/images/4.PNG)
-![image5](https://github.com/AmineMahiddine/Metaheuristiques/tree/main/images/5.PNG)
+## Part 01
+<img alt="image1" src="/images/1.PNG" data-canonical-src="/images/1.PNG" width="500"  />
+__________________________________________________________________________________________________
+<img alt="image2" src="/images/2.PNG" data-canonical-src="/images/2.PNG" width="500"  />
+__________________________________________________________________________________________________
+<img alt="image3" src="/images/3.PNG" data-canonical-src="/images/3.PNG" width="500"  />
+
+## Part 02
+
+<img alt="image4" src="/images/4.PNG" data-canonical-src="/images/4.PNG" width="500"  />
+__________________________________________________________________________________________________
+<img alt="image5" src="/images/5.PNG" data-canonical-src="/images/5.PNG" width="500"  />
+__________________________________________________________________________________________________
