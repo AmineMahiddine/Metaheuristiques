@@ -1,5 +1,7 @@
 # Metaheuristiques
 
+Ps: To Use download the .jar file and run it on your machine
+
 ### Implementing different algorithms to solve the the n-puzzle:
 
 #### A*, BFS, DFS, methaheuristiques: genetic algorithms and PSO
