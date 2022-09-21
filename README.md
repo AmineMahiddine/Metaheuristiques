@@ -19,4 +19,4 @@ ________________________________________________________________________________
 __________________________________________________________________________________________________
 
 ### How to use?
-download the .jar file and run it on your machine
+download the .jar file and run it on your machine (java v8 and above)
